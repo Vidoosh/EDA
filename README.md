@@ -1,5 +1,5 @@
-# EDA
-<h2>Exploratory Data Analysis (EDA) </h2>
+# Exploratory Data Analysis (EDA)
+
 
 EDA is performed on a log data (stored in HealthApp.log)
 
